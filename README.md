@@ -5,7 +5,7 @@ Un programme en C qui permet de gérer et analyser les notes d'une classe.
 ## Fonctionnalités
 - Saisie du nombre d'étudiants par l'utilisateur
 - Saisie des notes de chaque étudiant (entre 0 et 20)
-- Validation des entrées — rejette les notes invalides
+- Validation des entrée, rejette les notes invalides
 - Calcul de la moyenne générale de la classe
 - Identification de la meilleure note de la classe
 - Utilisation des pointeurs pour le parcours du tableau
@@ -19,4 +19,4 @@ gcc main.c -o calculateur
 - CLion (JetBrains)
 
 ## Auteur
-Abdennour KELLAM — Génie Informatique, EMSI
+Abdennour KELLAM, Génie Informatique, EMSI
